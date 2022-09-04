@@ -1,0 +1,108 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "books": [
+    {
+      "title": "Book of Joy",
+      "author": "Dalai Lama"
+    },
+    {
+      "title": "Quotes for life",
+      "author": "Michelle Obama"
+    },
+    {
+      "title": "Proceedings of the Royal Society of Canada",
+      "authors": [
+        "Royal Society of Canada"
+      ],
+      "id": "ucohSUI"
+    },
+    {
+      "title": "Hae Yang on to Chʼa Pal Chŏn Mun Hŏn Mok Nok",
+      "authors": [
+        "Won-oh Song"
+      ],
+      "id": "8IhepEq"
+    },
+    {
+      "title": "Punch/The London Charivari; Vol LXXII",
+      "id": "DxqT5em"
+    },
+    {
+      "title": "Blob Life",
+      "authors": [
+        "Ian Long Pip Wilson"
+      ],
+      "id": "woKSto9"
+    },
+    {
+      "title": "928 Miles from Home",
+      "authors": [
+        "Kim Slater"
+      ],
+      "id": "jJniLPd"
+    },
+    {
+      "title": "Communication Arts",
+      "id": "SQAKN-D"
+    },
+    {
+      "title": "Meet the Blob",
+      "authors": [
+        "Suzanne Murdico"
+      ],
+      "id": "rd55E3K"
+    },
+    {
+      "title": "Blob Good Samaritan",
+      "authors": [
+        "Ian Long Pip Wilson"
+      ],
+      "id": "xQhuJUL"
+    },
+    {
+      "title": "Big Book of Blob Trees",
+      "authors": [
+        "Pip Wilson"
+      ],
+      "id": "_htpfDM"
+    },
+    {
+      "title": "Meet the Blob",
+      "authors": [
+        "Suzanne Murdico"
+      ],
+      "id": "rKycAFW"
+    },
+    {
+      "title": "Blob Life",
+      "authors": [
+        "Ian Long Pip Wilson"
+      ],
+      "id": "9qE9swp"
+    },
+    {
+      "title": "The Big Book of Blob Trees",
+      "authors": [
+        "Pip Wilson",
+        "Ian Long"
+      ],
+      "id": "eMhx502"
+    }
+  ]
+}

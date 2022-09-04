@@ -1,0 +1,26 @@
+.glovo{
+
+    width: 15%;
+    height: 14%;
+    background-color: #d0d532; 
+    
+    text-align: center;  
+    color:blueviolet;
+    
+   
+    justify-content:flex-start;
+    position:relative;
+    float:right; 
+     
+
+    
+}  
+
+.it{
+     border-style : solid; 
+    
+     border-color:blueviolet; 
+    
+    
+}
+

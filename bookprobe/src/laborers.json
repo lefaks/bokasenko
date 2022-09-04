@@ -1,0 +1,37 @@
+{"laborers": [
+    { "id": 1,
+     "first_name": "Diana",
+     "last_name": "Cakic",
+     "profession": "civil engineering",
+     "level":"master"
+   },
+   {
+     "id": 2,
+     "first_name": "Haley",
+     "last_name": "Cooper",
+     "profession": "psychology",
+     "level":"master"
+   },
+   {
+     "id": 3,
+     "first_name": "Marko",
+     "last_name": "Sutevski",
+     "profession": "civil engineering",
+     "level":"bachelor"
+   },
+   {
+     "id": 4,
+     "first_name": "Antonio",
+     "last_name": "Lav",
+     "profession": "civil engineering",
+     "level":"master"
+   },
+   {
+     "id": 5,
+     "first_name": "Sasha",
+     "last_name": "Vrsaljko",
+     "profession": "business",
+     "level":"bachelor"
+   }
+]
+}

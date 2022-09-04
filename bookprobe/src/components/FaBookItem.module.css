@@ -1,0 +1,49 @@
+.item {
+    position: relative;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    background-color: #fff;
+    text-align: center;
+    color: #3e3e43;
+    min-width: 15.625rem;
+    margin: 1.25rem auto;
+    padding: 1.25rem;
+    border: 1px solid #f0f0f0;
+    border-radius: 0.3125rem;
+  }
+  
+  .dark {
+    background-color: #f0f0f0;
+  }
+  
+  .content {
+    margin-left: 0.6rem;
+    text-align: left;
+  }
+  
+  .title {
+    font-size: 1.25rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+  }
+  
+  .description {
+    font-size: 1rem;
+    line-height: 1.5rem;      
+    font-weight: 100;
+  }
+  
+  .closeBttn {
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 1.25rem;
+    border: none;
+    background-color: transparent;
+  }
+  
+  .closeBttn:hover {
+    cursor: pointer;
+    opacity: 0.8;
+  }
